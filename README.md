@@ -45,6 +45,10 @@ This repository contains only the encoder, deterministic drawing geometry, and S
 
 The geometry constraints are not a scan guarantee. Some explicit QR settings and drawings may not decode, and this package does not test its output. Independently validate each rendered design with the decoders, devices, sizes, and print or display conditions that matter to your use.
 
+## Inspiration
+
+The creative inspiration for this project came from [this YouTube video](https://www.youtube.com/watch?v=RYqX8CNgzwM).
+
 ## Development
 
 AI tools assisted with extracting this core and preparing its documentation. The extracted geometry was checked against the original implementation and tested with automated checks.
