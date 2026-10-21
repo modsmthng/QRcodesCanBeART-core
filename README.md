@@ -47,6 +47,8 @@ The geometry constraints are not a scan guarantee. Some explicit QR settings and
 
 ## Development
 
+AI tools assisted with extracting this core and preparing its documentation. The extracted geometry was checked against the original implementation and tested with automated checks.
+
 ```sh
 npm run build
 npm run check
