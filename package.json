@@ -1,0 +1,48 @@
+{
+  "name": "qrcodescanbeart-core",
+  "version": "0.1.0",
+  "description": "Seeded QR code art geometry and SVG renderer",
+  "license": "Apache-2.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "NOTICE",
+    "THIRD_PARTY_NOTICES.md",
+    "CITATION.cff"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "test": "npm run build && node --test test/*.test.mjs",
+    "example": "npm run build && node examples/minimal.mjs"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2"
+  },
+  "author": {
+    "name": "André Tolksdorf",
+    "url": "https://github.com/modsmthng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modsmthng/QRcodesCanBeART-core.git"
+  },
+  "homepage": "https://github.com/modsmthng/QRcodesCanBeART-core#readme",
+  "bugs": {
+    "url": "https://github.com/modsmthng/QRcodesCanBeART-core/issues"
+  }
+}

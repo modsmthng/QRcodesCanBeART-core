@@ -1,0 +1,11 @@
+QRcodesCanBeART Core
+Developed by André Tolksdorf (modsmthng)
+https://github.com/modsmthng
+https://github.com/modsmthng/QRcodesCanBeART-core
+Copyright 2026 André Tolksdorf
+
+André Tolksdorf's contributions include the deterministic figure and symbol
+composition, protected line routing and geometry cleanup, and SVG rendering.
+QR encoding is based on the vendored Project Nayuki QR Code generator, whose
+MIT attribution and license are preserved in src/vendor/qrcodegen.ts and
+THIRD_PARTY_NOTICES.md.

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QRcodesCanBeART Core"
+type: software
+authors:
+  - family-names: Tolksdorf
+    given-names: André
+    alias: modsmthng
+    website: https://github.com/modsmthng
+version: 0.1.0
+date-released: 2026-10-21
+license: Apache-2.0
+repository-code: https://github.com/modsmthng/QRcodesCanBeART-core
