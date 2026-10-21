@@ -37,7 +37,7 @@ await writeFile('qr-art.svg', svg, 'utf8');
 - Applies geometric clearance constraints around white module samples. Finder, separator, timing, alignment, and version patterns remain square.
 - Renders the result with a white background and four-module quiet zone.
 
-This repository contains only the encoder, deterministic drawing geometry, and SVG renderer. It does not include candidate search or QArt optimization, decoding or scan validation, replay, a browser UI, a server, or a storefront.
+This repository contains only the encoder, deterministic drawing geometry, and SVG renderer. It does not include candidate search or QArt optimization, decoding or scan validation, replay and other.
 
 The geometry constraints are not a scan guarantee. Some explicit QR settings and drawings may not decode, and this package does not test its output. Independently validate each rendered design with the decoders, devices, sizes, and print or display conditions that matter to your use.
 
