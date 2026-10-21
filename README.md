@@ -1,10 +1,14 @@
 # QRcodesCanBeART Core
 
-**Developed by [André Tolksdorf (modsmthng)](https://github.com/modsmthng).** See the artwork in use at [qrcodescanbeart.com](https://qrcodescanbeart.com/).
+A TypeScript core for encoding one QR configuration, drawing deterministic figure-and-line geometry from its modules, and rendering that drawing as SVG.
+
+See the artwork in use at [qrcodescanbeart.com](https://qrcodescanbeart.com/).
+
+Developed by André Tolksdorf ([modsmthng](https://github.com/modsmthng)).
 
 [Public source repository](https://github.com/modsmthng/QRcodesCanBeART-core) · Release **0.1.0** · 2026-10-21
 
-A TypeScript core for encoding one QR configuration, drawing deterministic figure-and-line geometry from its modules, and rendering that drawing as SVG. This release carries geometry derived from the QRcodesCanBeART drawing algorithm version 0.2.3.
+This release carries geometry derived from the QRcodesCanBeART drawing algorithm version 0.2.3.
 
 ## Quick start
 
