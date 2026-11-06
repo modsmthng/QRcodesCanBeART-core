@@ -6,8 +6,6 @@ See the artwork in use at [qrcodescanbeart.com](https://qrcodescanbeart.com/).
 <img width="4096" height="4096" alt="qr-zeichnung-4096" src="https://github.com/user-attachments/assets/042f054d-bb7d-47f6-acea-ecd375357a64" />
 
 
-Developed by André Tolksdorf ([modsmthng](https://github.com/modsmthng)).
-
 [Public source repository](https://github.com/modsmthng/QRcodesCanBeART-core) · Release **0.1.0** · 2026-10-21
 
 This release carries geometry derived from the QRcodesCanBeART drawing algorithm version 0.2.3.
